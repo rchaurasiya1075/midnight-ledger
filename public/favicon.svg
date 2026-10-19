@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="Midnight Ledger">
+  <rect width="32" height="32" rx="6" fill="#07070b"/>
+  <defs>
+    <mask id="ml-crescent">
+      <circle cx="13.4" cy="16" r="9.1" fill="#ffffff"/>
+      <circle cx="18.7" cy="14.3" r="7.55" fill="#000000"/>
+    </mask>
+  </defs>
+  <circle cx="13.4" cy="16" r="9.1" fill="#e8b86d" mask="url(#ml-crescent)"/>
+</svg>
